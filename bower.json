@@ -1,0 +1,24 @@
+{
+  "name": "spaceGladiators",
+  "version": "1.0.0",
+  "authors": [
+    "Mark Cafazzo <mark.cafazzo@capacitive.ca>"
+  ],
+  "description": "pluralsight tutorial game",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pixi": "~3.0.6",
+    "mousetrap": "~1.5.2",
+    "p2js": "~0.6.1",
+    "howler": "~1.1.26"
+  }
+}
